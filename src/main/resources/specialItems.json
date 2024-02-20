@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2h098ser-ba03-0692-4693-jh30487hq3gq",
+    "name": "the great sphere of teleportation",
+    "properties": {
+      "description": "Very round and polished sphere. Fits great in hand. I looks like it could fit in some place. \nInside, a blue marble is constantly teleported between many black holes that continuously open and close, causing the marble never to stop moving. ",
+      "cost": "150",
+      "edible": "false",
+      "healthRestored": "0",
+      "usable": "true",
+      "weapon": "false",
+      "armour": "false",
+      "value": "0"
+    }
+  }
+]

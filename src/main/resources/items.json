@@ -1,0 +1,44 @@
+[
+  {
+    "id": "3fdd507a-bad7-4189-8352-db2d1358b7b9",
+    "name": "sword",
+    "properties": {
+      "description": "Sharp edge. Great handle.",
+      "cost": "5",
+      "edible": "false",
+      "healthRestored": "0",
+      "usable": "true",
+      "weapon": "true",
+      "armour": "false",
+      "value": "5"
+    }
+  },
+  {
+    "id": "3fdd507a-bad7-4189-8352-dib6al3b9s7",
+    "name": "shield",
+    "properties": {
+      "description": "Sharp edge. Great handle.",
+      "cost": "5",
+      "edible": "false",
+      "healthRestored": "0",
+      "usable": "true",
+      "weapon": "false",
+      "armour": "true",
+      "value": "5"
+    }
+  },
+  {
+    "id": "6cf2f70c-74d6-40ba-ab9b-c51039f74c6a",
+    "name": "bag of coins",
+    "properties": {
+      "description": "Uuu! Shiny!",
+      "cost": "30",
+      "edible": "false",
+      "healthRestored": "0",
+      "usable": "true",
+      "weapon": "false",
+      "armour": "true",
+      "value": "5"
+    }
+  }
+]

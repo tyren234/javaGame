@@ -1,0 +1,59 @@
+[
+  {
+    "id": "49203373-ceba-4fb0-86bc-cb45ebd418dd",
+    "name": "apple",
+    "properties": {
+      "description": "Tasty apple. Restores 1 health.",
+      "cost": "1",
+      "edible": "true",
+      "healthRestored": "1",
+      "usable": "false",
+      "weapon": "false",
+      "armour": "false",
+      "value": "0"
+    }
+  },
+  {
+    "id": "1ad3d5c0-ed2b-48fc-8a79-4f1a85b50bf9",
+    "name": "pebble",
+    "properties": {
+      "description": "Looks like a stone.",
+      "cost": "0",
+      "edible": "false",
+      "healthRestored": "0",
+      "usable": "true",
+      "weapon": "true",
+      "armour": "false",
+      "value": "1"
+    }
+  },
+  {
+    "id": "14eeb35d-d6fe-49b4-99f3-ba43eb066954",
+    "name": "spiderweb",
+    "properties": {
+      "description": "Bleh! How do you even hold it?",
+      "cost": "0",
+      "edible": "true",
+      "healthRestored": "5",
+      "usable": "false",
+      "weapon": "false",
+      "armour": "false",
+      "value": "0"
+    }
+  },
+  {
+    "id": "qgiuqh39-d6fe-49b4-99f3-ae0g9ab09qgq",
+    "name": "stick",
+    "properties": {
+      "description": "Sturdy stick. Good swing.",
+      "cost": "0",
+      "edible": "false",
+      "healthRestored": "0",
+      "usable": "true",
+      "weapon": "true",
+      "armour": "false",
+      "value": "1"
+    }
+  }
+
+]
